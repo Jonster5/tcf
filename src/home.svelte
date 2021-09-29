@@ -2,7 +2,7 @@
 </script>
 
 <main>
-	<h1>Welcome to tcf</h1>
+	<h1>welcome to the tcf</h1>
 </main>
 
 <style>
